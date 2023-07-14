@@ -49,6 +49,15 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 - Non-functional testing like stress, performance is beyond scope of this project.
 - No QA support for mobile applications developed. Only web applications will be tested.
 - Automation testing is beyond scope.
+## 2 Test Process
+
+### 2.1 Test Planning
+#### Roles and responsibilities
+| Role  | Name  | Tasks/Work |
+|---|---|---|
+| Senior tester | Matei Olteran| will test: Add funds, Withdraw funds|
+| Tester | Adelina Pop| will test: Sends money|
+   
 
 
 
