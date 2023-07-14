@@ -115,7 +115,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 - The following test conditions could be found here: [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
-  - link to daily test summary report ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+  - link to daily test summary report ![Daily report](https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/background-flori-1.jpg)
 
 
 
