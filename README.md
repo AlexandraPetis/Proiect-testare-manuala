@@ -52,23 +52,31 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 ## 2 Test Process
 
 ### 2.1 Test Planning
+
 #### Roles and responsibilities
+
 | Role  | Name  | Tasks/Work |
 |---|---|---|
 | Senior tester | Matei Olteran| will test: Add funds, Withdraw funds|
 | Tester | Adelina Pop| will test: Sends money|
+
 #### Entery criteria:
+
 - functional business specifications are defined
 - roles needed for the project are allocated
 - testing environment is up and running
 - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+- 
 #### Exit criteria:
+
 - all test cases have been executed 
 - 90% of tests are passed
 - no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
 - exploratory testing performed on the features: Add funds, Withdraw funds, Send money
 - update tests are 100% passed (update tests will not generate other new issues that impact the application)
+- 
 #### Risks:
+
 - user data (banking related data, funds, transactions, etc) might be impacted with update tests
 - stability risks (crashes, disconnects, etc)
 - IE browser might have performance issues
