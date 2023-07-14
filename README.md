@@ -1,4 +1,6 @@
 # Proiect-testare-manuala
+## Revision History
+
 | Date  | Description  | Author | Comments|
 |---|---|---|---|
 | 05.05.2023 | Test Plan for version 0.55| Matei Oltean|
