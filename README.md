@@ -112,7 +112,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
   
 -  we will use test environment
 - testing using new accounts and older account is necessary
-- The following test conditions could be found here: "Aici va fi un link catre un fisier"
+- The following test conditions could be found here: [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
   - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
