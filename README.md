@@ -47,12 +47,13 @@
 
       3.7 Bugs report
 
-      3.8 Test completion report 
+      3.8 Test completion report
+
+      3.9 Schedule
      
   ## 1. Introduction
      
-The Guru99 Bank project aims to provide a net banking facility to its customers.
-This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
+OpenCart is free open source e-commerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store. This foundation appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time. OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store. With OpenCart's tools, you can help your online shop live up to its fullest potential.
 
 ### 1.1 Project Objective
 
@@ -60,9 +61,9 @@ We need to raise the trust in the quality of the project as high as possible bef
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application. 
 
-Application under test: https://demo.guru99.com/V4/index.php 
+Application under test:	[https://demo.opencart.com/](https://demo.opencart.com/admin/ ) 
 
-Application documentation:  https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit 
+Application documentation:  [Application documentation ](http://docs.opencart.com/en-gb/introduction/)
 
 ###  1.2 Functionalities in scope
 
