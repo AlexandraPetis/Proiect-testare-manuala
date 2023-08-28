@@ -1,10 +1,12 @@
 # Proiect-testare-manuala
+# OPENCART
+### -Test Plan-
 ## Revision History
 
 | Date  | Description  | Author | Comments|
 |---|---|---|---|
-| 05.05.2023 | Test Plan for version 0.55| Matei Oltean|
-| 07.07.2023 | Test Plan for version 1.0 | Adelina Pop| Added more details for Test Implementation|
+| 28.08.2023 | Test Plan for version 0.1| Petis Alexandra|
+| 07.07.2023 | Test Plan for version 1.0 | Adelina Pop| !!!Added more details for Test Implementation|
 
   1. Introduction
      
@@ -31,9 +33,21 @@
      
   3. Test deliverables
      
-      3.1 Project Objective
+      3.1 Test plan
      
-      1.2 Functionalities in scope
+      3.2 Test conditions
+
+      3.3 Test cases
+
+      3.4 Daily tests summary reports
+
+      3.5 Traceability matrix
+
+      3.6 Test case results
+
+      3.7 Bugs report
+
+      3.8 Test completion report 
      
   ## 1. Introduction
      
