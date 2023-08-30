@@ -67,19 +67,17 @@ Application documentation:  [Application documentation ](http://docs.opencart.co
 
 ###  1.2 Functionalities in scope
 
-Here we should write all the functionalities that are included in the release.
-e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
+OpenCart's administration side of the store is where you can modify features, upload images, add products, keep track of customers, manage payments, and much more. Customization in the admin affects how the customer will interact with a store: by modifying the look, structure, and content of the store front.
 
-- The features in scope for testing: Add funds, Withdraw funds, Send money
+- The features in scope for testing: modifying the look, structure, content of the store front, upload image files, add multiple language options, can add multiple stores to your admin panel, migrate OpenCart to a new web server,  creat SEO keywords willhelp you to clean up your store page's URL and optimize your page for search engines.
 - Testing types used: functional testing, GUI testing
-- 
+
  ### 1.3 Functionalities and tests out of scope
  
-- The features out of scope: Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
 - Non-functional testing like stress, performance is beyond scope of this project.
-- No QA support for mobile applications developed. Only web applications will be tested.
+- Only web applications will be tested.
 - Automation testing is beyond scope.
-- 
+  
 ## 2 Test Process
 
 ### 2.1 Test Planning
@@ -88,33 +86,23 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 | Role  | Name  | Tasks/Work |
 |---|---|---|
-| Senior tester | Matei Olteran| will test: Add funds, Withdraw funds|
-| Tester | Adelina Pop| will test: Sends money|
+| Tester | Petis Alexandra | will test: login to Opencart, Change the name of the admin folder, Navigate between dashboard, Use Filter to Product list|
+| Tester | Andreea Andreea| will test: Change image product, Adding multiple lengauges|
 
 #### Entery criteria:
 
 - functional business specifications are defined
 - roles needed for the project are allocated
 - testing environment is up and running
-- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-- 
+- initial project risks were detected and mitigated 
+  
 #### Exit criteria:
 
 - all test cases have been executed 
 - 90% of tests are passed
 - no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
-- exploratory testing performed on the features: Add funds, Withdraw funds, Send money
+- exploratory testing performed on the features
 - update tests are 100% passed (update tests will not generate other new issues that impact the application)
-- 
-#### Risks:
-
-- user data (banking related data, funds, transactions, etc) might be impacted with update tests
-- stability risks (crashes, disconnects, etc)
-- IE browser might have performance issues
-- versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
-- the web page pagination could be impacted when opened on mobile devices
-- stress conditions might impact the web application
-- new browser might not be supported
 
 ##  3. Test deliverables
 
