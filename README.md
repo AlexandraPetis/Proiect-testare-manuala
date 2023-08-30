@@ -139,17 +139,33 @@ OpenCart's administration side of the store is where you can modify features, up
 
 ### 3.1 Test plan - link to test plan
 
-- The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application
+- The Test Plan is designed to describe all the details of testing for the following features: Login to Opencart, Change the name of the admin folder, Navigate between dashboard, Use Filter to Product list, Change image product, Adding multiple lengauges
 - The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing.
 
 ### 3.2 Test conditions
   
--  we will use test environment
-- testing using new accounts 
-- The following test conditions could be found here: [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
+-  we will use test environment (OpenCart Admin Interface)
+- testing using admin acount
+- The following test conditions could be found here: [trebuie sa punem ]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
+
+### 3.3 Test cases
+
+- link to test cases
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
   - link to daily test summary report ![Daily report](https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/background-flori-1.jpg)
+
+### 3.5 Treaceability matrix
+
+- link to treaceability matrix
+
+### 3.6 Test case results
+
+- link to test case results
+
+### 3.7 Bugs report
+
+- link to bugs report 
 
 
 
