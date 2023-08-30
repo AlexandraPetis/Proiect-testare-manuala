@@ -104,7 +104,38 @@ OpenCart's administration side of the store is where you can modify features, up
 - exploratory testing performed on the features
 - update tests are 100% passed (update tests will not generate other new issues that impact the application)
 
+#### Risks: 
+?
+
+### 2.2 Test analysis
+
+- We plan on running full regression test on the current version 
+
+### 2.3 Test design 
+
+- All the test cases are written and reviewed
+
+### 2.4 Test implementation 
+
+- all the test data is available and reviewed
+- this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+
+### 2.5 Test execution
+
+- the tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. if time will be available we will extend tests on Opera and Brave browser
+
+### 2.6 Test closure
+
+-	at least 95% of tests are passed
+-	no Critical issues have Open status
+
+### 2.7 Test monitoring and control 
+
+? 
 ##  3. Test deliverables
+
+- all the test data is available and reviewed
+- -	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 
 ### 3.1 Test plan - link to test plan
 
@@ -114,7 +145,7 @@ OpenCart's administration side of the store is where you can modify features, up
 ### 3.2 Test conditions
   
 -  we will use test environment
-- testing using new accounts and older account is necessary
+- testing using new accounts 
 - The following test conditions could be found here: [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
